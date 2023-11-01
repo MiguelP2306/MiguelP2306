@@ -36,6 +36,13 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 
 ---
 
+### Idiomas
+
+- 🇪🇸 Nativo
+- 🇺🇸 Intermedio
+
+---
+
 ### 🛠 Frameworks y herramientas
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
