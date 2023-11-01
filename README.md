@@ -26,13 +26,13 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 
 ### Mis redes sociales
 
-<a href="mailto:miguelveperez54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/MiguelP2306"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
-<a href="https://www.instagram.com/miguel_p33/?hl=es"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/miguel-perez-4ab337172/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/> </a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
-<a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label="/> </a>
+<a target="_blank" href="mailto:miguelveperez54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a target="_blank" href="https://github.com/MiguelP2306"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a target="_blank" href="https://www.instagram.com/miguel_p33/?hl=es"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a target="_blank" href="https://www.linkedin.com/in/miguel-perez-4ab337172/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/> </a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+<a target="_blank" href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label="/> </a>
 
 ---
 
